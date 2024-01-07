@@ -8,6 +8,7 @@ import Computer from './Computer.jsx';
 import Headphones from './Headphones.jsx';
 import Pet from './Pet.jsx';
 
+//main app
 const App = () => {
   const deskPosition = [-10, -31, 2];
   const [textSide, setTextSide] = useState("hi, welcome to my website my name is eberto andre ruiz");
